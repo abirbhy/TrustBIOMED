@@ -3,11 +3,14 @@ Conception et réalisation d’un système de recherche d’information biomédi
 
 Mots clés : Recherche d’information, Deep Learning, Word Embedding, LSTM.
 
-# Description :
+# Description
 
 1-	Représentation vectorielle de la requête et du document en se basant sur Contex2Vec et fastText.
-2-	Normalisation de la représentation  en se basant sur un réseau récurent LSTM. 
+
+2-	Normalisation de la représentation  en se basant sur un réseau récurent LSTM.
+
 3-	Appariement  requête-document basé sur le « Learn to Rank ».
+
 4-	Evaluation et comparaison de l’approche.
 
 # Environnement logiciel
