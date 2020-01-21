@@ -1,0 +1,28 @@
+== Signs and symptoms ==
+
+Signs of sickle cell disease usually begin in early childhood. The severity of symptoms can vary from person to person. Sickle cell disease may lead to various acute and chronic complications, several of which have a high mortality rate.
+
+
+=== Sickle cell crisis ===
+The terms ""sickle cell crisis"" or ""sickling crisis"" may be used to describe several independent acute conditions occurring in patients with SCD. SCD results in anaemia and crises that could be of many types including the vaso-occlusive crisis, aplastic crisis, sequestration crisis, haemolytic crisis, and others. Most episodes of sickle cell crises last between five and seven days. ""Although infection, dehydration, and acidosis (all of which favor sickling) can act as triggers, in most instances, no predisposing cause is identified.""
+
+
+=== Vaso-occlusive crisis ===
+The vaso-occlusive crisis is caused by sickle-shaped red blood cells that obstruct capillaries and restrict blood flow to an organ resulting in ischaemia, pain, necrosis, and often organ damage. The frequency, severity, and duration of these crises vary considerably. Painful crises are treated with hydration, analgesics, and blood transfusion; pain management requires opioid administration at regular intervals until the crisis has settled. For milder crises, a subgroup of patients manage on nonsteroidal anti-inflammatory drugs (NSAIDs) such as diclofenac or naproxen. For more severe crises, most patients require inpatient management for intravenous opioids; patient-controlled analgesia devices are commonly used in this setting. Vaso-occlusive crisis involving organs such as the penis or lungs are considered an emergency and treated with red-blood cell transfusions. Incentive spirometry, a technique to encourage deep breathing to minimise the development of atelectasis, is recommended.
+
+
+=== Splenic sequestration crisis ===
+Because of its narrow vessels and function in clearing defective red blood cells, the spleen is frequently affected. It is usually infarcted before the end of childhood in individuals suffering from sickle cell anaemia. This spleen damage increases the risk of infection from encapsulated organisms; preventive antibiotics and vaccinations are recommended for those lacking proper spleen function.
+Splenic sequestration crises are acute, painful enlargements of the spleen, caused by intrasplenic trapping of red cells and resulting in a precipitous fall in haemoglobin levels with the potential for hypovolemic shock. Sequestration crises are considered an emergency. If not treated, patients may die within 1–2 hours due to circulatory failure. Management is supportive, sometimes with blood transfusion. These crises are transient, they continue for 3–4 hours and may last for one day.
+
+
+=== Acute chest syndrome ===
+Acute chest syndrome (ACS) is defined by at least two of the following signs or symptoms: chest pain, fever, pulmonary infiltrate or focal abnormality, respiratory symptoms, or hypoxemia. It is the second-most common complication and it accounts for about 25% of deaths in patients with SCD, majority of cases present with vaso-occlusive crises then they develop ACS. Nevertheless, about 80% of patients have vaso-occlusive crises during ACS.
+
+
+=== Aplastic crisis ===
+Aplastic crises are acute worsenings of the patient's baseline anaemia, producing pale appearance, fast heart rate, and fatigue. This crisis is normally triggered by parvovirus B19, which directly affects production of red blood cells by invading the red cell precursors and multiplying in and destroying them. Parvovirus infection almost completely prevents red blood cell production for two to three days. In normal individuals, this is of little consequence, but the shortened red cell life of SCD patients results in an abrupt, life-threatening situation. Reticulocyte counts drop dramatically during the disease (causing reticulocytopenia), and the rapid turnover of red cells leads to the drop in haemoglobin. This crisis takes 4 days to one week to disappear. Most patients can be managed supportively; some need blood transfusion.
+
+
+=== Haemolytic crisis ===
+Haemolytic crises are acute accelerated drops in haemoglobin level. The red blood cells break down at a faster rate. This is particularly common in patients with coexistent G6PD deficiency. Management is supportive, sometimes with blood transfusions.

@@ -1,0 +1,23 @@
+== Signs and symptoms ==
+
+Signs and symptoms of a peptic ulcer can include one or more of the following:
+
+abdominal pain, classically epigastric strongly correlated to mealtimes. In case of duodenal ulcers the pain appears about three hours after taking a meal;
+bloating and abdominal fullness;
+waterbrash (rush of saliva after an episode of regurgitation to dilute the acid in esophagus - although this is more associated with gastroesophageal reflux disease);
+nausea and copious vomiting;
+loss of appetite and weight loss;
+hematemesis (vomiting of blood); this can occur due to bleeding directly from a gastric ulcer, or from damage to the esophagus from severe/continuing vomiting.
+melena (tarry, foul-smelling feces due to presence of oxidized iron from hemoglobin);
+rarely, an ulcer can lead to a gastric or duodenal perforation, which leads to acute peritonitis, extreme, stabbing pain, and requires immediate surgery.A history of heartburn, gastroesophageal reflux disease (GERD) and use of certain forms of medication can raise the suspicion for peptic ulcer. Medicines associated with peptic ulcer include NSAIDs (non-steroid anti-inflammatory drugs) that inhibit cyclooxygenase, and most glucocorticoids (e.g. dexamethasone and prednisolone).
+In people over the age of 45 with more than two weeks of the above symptoms, the odds for peptic ulceration are high enough to warrant rapid investigation by esophagogastroduodenoscopy.
+The timing of the symptoms in relation to the meal may differentiate between gastric and duodenal ulcers: A gastric ulcer would give epigastric pain during the meal, associated with nausea and vomiting, as gastric acid production is increased as food enters the stomach. Pain in duodenal ulcers would be aggravated by hunger, relieved by a meal, and is associated with night pain.Also, the symptoms of peptic ulcers may vary with the location of the ulcer and the person's age. Furthermore, typical ulcers tend to heal and recur and as a result the pain may occur for few days and weeks and then wane or disappear. Usually, children and the elderly do not develop any symptoms unless complications have arisen.
+Burning or gnawing feeling in the stomach area lasting between 30 minutes and 3 hours commonly accompanies ulcers. This pain can be misinterpreted as hunger, indigestion or heartburn. Pain is usually caused by the ulcer but it may be aggravated by the stomach acid when it comes into contact with the ulcerated area. The pain caused by peptic ulcers can be felt anywhere from the navel up to the sternum, it may last from few minutes to several hours and it may be worse when the stomach is empty. Also, sometimes the pain may flare at night and it can commonly be temporarily relieved by eating foods that buffer stomach acid or by taking anti-acid medication. However, peptic ulcer disease symptoms may be different for every sufferer.
+
+
+=== Complications ===
+Gastrointestinal bleeding is the most common complication. Sudden large bleeding can be life-threatening. It is associated with 5% to 10% death rate.
+Perforation (a hole in the wall of the gastrointestinal tract) following a gastric ulcer often leads to catastrophic consequences if left untreated. Erosion of the gastro-intestinal wall by the ulcer leads to spillage of the stomach or intestinal content into the abdominal cavity. Perforation at the anterior surface of the stomach leads to acute peritonitis, initially chemical and later bacterial peritonitis. The first sign is often sudden intense abdominal pain such as Valentino's syndrome. Posterior wall perforation leads to bleeding due to the involvement of gastroduodenal artery that lies posterior to the first part of the duodenum. The death rate in this case is 20%.
+Penetration is a form of perforation in which the hole leads to and the ulcer continues into adjacent organs such as the liver and pancreas.
+Gastric outlet obstruction is a narrowing of the pyloric canal by scarring and swelling of the gastric antrum and duodenum due to peptic ulcers. The person often presents with severe vomiting.
+Cancer is included in the differential diagnosis (elucidated by biopsy), Helicobacter pylori as the etiological factor making it 3 to 6 times more likely to develop stomach cancer from the ulcer.

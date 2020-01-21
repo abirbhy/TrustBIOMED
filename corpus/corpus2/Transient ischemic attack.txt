@@ -1,0 +1,11 @@
+== Signs and symptoms ==
+Signs and symptoms of TIA are widely variable and can mimic other neurologic conditions, making the clinical context and physical exam crucial in ruling in or out the diagnosis. The most common presenting symptoms of TIA are focal neurologic deficits, which can include, but are not limited to:
+Amaurosis fugax (painless, temporary loss of vision)
+One-sided facial droop
+One-sided motor weakness
+Diplopia (double vision)
+Problems with balance and spatial orientationA detailed neurologic exam, including a thorough cranial nerve exam, is important to identify these findings and to differentiate them from mimickers of TIA. Symptoms such as unilateral weakness, amaurosis fugax, and double vision have higher odds of representing TIA compared to memory loss, headache, and blurred vision. Below is a table of symptoms at presentation, and what percentage of the time they are seen in TIAs versus conditions that mimic TIA. In general, focal deficits make TIA more likely, but the absence of focal findings do not exclude the diagnosis and further evaluation may be warranted if clinical suspicion for TIA is high (see “Diagnosis” section below).
+
+
+=== TIA versus mimics ===
+Symptoms of TIAs can last on the order of minutes to 1–2 hours, but occasionally may last for a longer period of time. TIAs used to be defined as ischemic events in the brain that last less than 24 hours, but given the variation in duration of symptoms, this definition holds less significance. A pooled study of 808 patients with TIAs from 10 hospitals showed that 60% lasted less than 1 hour, 71% lasted less than 2 hours, and 14% lasted greater than 6 hours. Importantly, patients with symptoms that last more than one hour are more likely to have permanent neurologic damage, making prompt diagnosis and treatment important to maximize recovery.

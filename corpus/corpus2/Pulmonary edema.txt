@@ -1,0 +1,17 @@
+== Signs and symptoms ==
+The most common symptom of pulmonary edema is difficulty breathing, but may include other symptoms such as coughing up blood (classically seen as pink, frothy sputum), excessive sweating, anxiety, and pale skin. Shortness of breath can manifest as orthopnea (inability to lie down flat due to breathlessness) and/or paroxysmal nocturnal dyspnea (episodes of severe sudden breathlessness at night). These are common presenting symptoms of chronic pulmonary edema due to left ventricular failure. The development of pulmonary edema may be associated with symptoms and signs of ""fluid overload""; this is a non-specific term to describe the manifestations of right ventricular failure on the rest of the body and includes peripheral edema (swelling of the legs, in general, of the ""pitting"" variety, wherein the skin is slow to return to normal when pressed upon), raised jugular venous pressure and hepatomegaly, where the liver is enlarged and may be tender or even pulsatile. Other signs include end-inspiratory crackles (sounds heard at the end of a deep breath) on auscultation and the presence of a third heart sound.
+
+
+== Types ==
+Classically it is cardiogenic (left ventricular) but fluid may also accumulate due to damage to the lung. This damage may be direct injury or injury mediated by high pressures within the pulmonary circulation. When directly or indirectly caused by increased left ventricular pressure pulmonary edema may form when mean pulmonary pressure rises from the normal of 15 mmHg to above 25 mmHg. Broadly, the causes of pulmonary edema can be divided into cardiogenic and non-cardiogenic. By convention cardiogenic refers to left ventricular causes.
+
+
+=== Cardiogenic ===
+Congestive heart failure which is due to the heart's inability to pump the blood out of the pulmonary circulation at a sufficient rate resulting in elevation in wedge pressure and pulmonary edema – this may be due to left ventricular failure, arrhythmias, or fluid overload, e.g., from kidney failure or intravenous therapy.
+Hypertensive crisis can cause pulmonary edema as the elevation in blood pressure and increased afterload on the left ventricle hinders forward flow and causes the elevation in wedge pressure and subsequent pulmonary edema.
+
+
+=== Non-cardiogenic ===
+Negative pressure pulmonary edema  in which a significant negative pressure in the chest (such as from an inhalation against an upper airway obstruction) ruptures capillaries and floods the alveoli. Negative pressure pulmonary edema has an incidence in the range of 0.05-0.1% for general anesthesia. The negative pressure causes a significant increase in preload, thereby increasing pulmonary blood volume.  There is also a significant increase in left ventricular afterload, which causes a decreased cardiac output.  The increase in pulmonary blood volume along with a decrease in cardiac output will increase the pulmonary transudative pressures. With all this occurring, pulmonary vascular resistance increases causing a shift of the intraventricular septum.  The ventricular septal shift to the left causes a left ventricular diastolic dysfunction, which further increases pulmonary hydrostatic pressures. 
+Neurogenic causes  (seizures, head trauma, strangulation, electrocution).
+Acute respiratory distress syndrome
