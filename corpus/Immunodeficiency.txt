@@ -1,0 +1,29 @@
+"Immunodeficiency is a state in which the immune system's ability to fight infectious disease and cancer is compromised or entirely absent. Most cases of immunodeficiency are acquired (""secondary"") due to extrinsic factors that affect the patient's immune system. Examples of these extrinsic factors include HIV infection, extremes of age, and environmental factors, such as nutrition. In the clinical setting, the immunosuppression by some drugs, such as steroids, can be either an adverse effect or the intended purpose of the treatment. Examples of such use is in organ transplant surgery as an anti-rejection measure and in patients suffering from an overactive immune system, as in autoimmune diseases. Some people are born with intrinsic defects in their immune system, or primary immunodeficiency. A person who has an immunodeficiency of any kind is said to be immunocompromised. An immunocompromised person may be particularly vulnerable to opportunistic infections, in addition to normal infections that could affect everyone. Immunodeficiency also decreases cancer immunosurveillance, in which the immune system scans the body's cells and kills neoplastic ones.
+
+
+== Types ==
+
+
+=== By affected component ===
+Humoral immune deficiency (including B cell deficiency or dysfunction), with signs or symptoms depending on the cause, but generally include signs of hypogammaglobulinemia (decrease of one or more types of antibodies) with presentations including repeated mild respiratory infections, and/or agammaglobulinemia (lack of all or most antibody production) which results in frequent severe infections and is often fatal.
+T cell deficiency, often causes secondary disorders such as acquired immune deficiency syndrome (AIDS).
+Granulocyte deficiency, including decreased numbers of granulocytes (called as granulocytopenia or, if absent, agranulocytosis) such as of neutrophil granulocytes (termed neutropenia). Granulocyte deficiencies also include decreased function of individual granulocytes, such as in chronic granulomatous disease.
+Asplenia, where there is no function of the spleen
+Complement deficiency is where the function of the complement system is deficientIn reality, immunodeficiency often affects multiple components, with notable examples including severe combined immunodeficiency (which is primary) and acquired immune deficiency syndrome (which is secondary).
+
+
+=== Primary or secondary ===
+Distinction between primary versus secondary immunodeficiencies are based on, respectively, whether the cause originates in the immune system itself or is, in turn, due to insufficiency of a supporting component of it or an external decreasing factor of it.
+
+
+==== Primary immunodeficiency ====
+
+A number of rare diseases feature a heightened susceptibility to infections from childhood onward.  Primary Immunodeficiency is also known as congenital immunodeficiencies.  Many of these disorders are hereditary and are autosomal recessive or X-linked. There are over 95 recognised primary immunodeficiency syndromes; they are generally grouped by the part of the immune system that is malfunctioning, such as lymphocytes or granulocytes.The treatment of primary immunodeficiencies depends on the nature of the defect, and may involve antibody infusions, long-term antibiotics and (in some cases) stem cell transplantation.The characteristics of lacking and/or impaired antibody functions can be related to illnesses such as X-Linked Agammaglobulinemia and Common Variable Immune Deficiency 
+
+
+==== Secondary immunodeficiencies ====
+
+Secondary immunodeficiencies, also known as acquired immunodeficiencies, can result from various immunosuppressive agents, for example, malnutrition, aging, particular medications (e.g., chemotherapy, disease-modifying antirheumatic drugs, immunosuppressive drugs after organ transplants, glucocorticoids) and environmental toxins like mercury and other heavy metals, pesticides and petrochemicals like styrene, dichlorobenzene, xylene, and ethylphenol. For medications, the term immunosuppression generally refers to both beneficial and potential adverse effects of decreasing the function of the immune system, while the term immunodeficiency generally refers solely to the adverse effect of increased risk for infection.
+Many specific diseases directly or indirectly cause immunosuppression. This includes many types of cancer, particularly those of the bone marrow and blood cells (leukemia, lymphoma, multiple myeloma), and certain chronic infections. Immunodeficiency is also the hallmark of acquired immunodeficiency syndrome (AIDS), caused by the human immunodeficiency virus (HIV). HIV directly infects a small number of T helper cells, and also impairs other immune system responses indirectly.
+Various hormonal and metabolic disorders can also result in immune deficiency including anemia, hypothyroidism, diabetes and hypoglycemia.
+Smoking, alcoholism and drug abuse also depress immune response.

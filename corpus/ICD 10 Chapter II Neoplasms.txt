@@ -1,0 +1,4 @@
+"ICD-10 is an international statistical classification used in health care and related industries.
+Produced by the World Health Organization, it is used in several countries around the world. Some have gone on to develop their own national enhancements, building off the international version of the classification.
+Chapter II of ICD-10 deals with neoplastic conditions; such as cancer, carcinoma in situ, and benign tumours. Precancerous conditions, for example vaginal intraepithelial neoplasia are classified to the body system chapter.
+The code set within Chapter II has been further enhanced by the International Classification of Diseases for Oncology (ICD-O) stand-alone classification.
